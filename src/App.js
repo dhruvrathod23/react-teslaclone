@@ -28,7 +28,7 @@ function App() {
       <Item 
        title= "Model S"
        desc = "Order Online for Touchless Delivery"
-       backgroundImg = 'model-S.jpg'
+       backgroundImg = 'Desktop-modelS.jpeg'
        leftBtnText = "Custom order"
        rightBtntxt = "Exisiting Inventory"
       />
