@@ -9,21 +9,6 @@ function App() {
     <div className="App">
       <Header/>
       <Container>
-      <Item 
-       title= "Model S"
-       desc = "Order Online for Touchless Delivery"
-       backgroundImg = 'model-S.jpg'
-       leftBtnText = "Custom order"
-       rightBtntxt = "Exisiting Inventory"
-      />
-       <Item 
-       title= "Model X"
-       desc = "Order Online for Touchless Delivery"
-       backgroundImg = 'model-x.jpg'
-       leftBtnText = "Custom order"
-       rightBtntxt = "Exisiting Inventory"
-      />
-
       <Item
         title= "Model3"
         desc = "Order Online for Touchless Delivery "
@@ -32,6 +17,24 @@ function App() {
         rightBtntxt = "Exisiting Inventory"
       
       />
+
+<Item 
+       title= "Model X"
+       desc = "Order Online for Touchless Delivery"
+       backgroundImg = 'model-x.jpg'
+       leftBtnText = "Custom order"
+       rightBtntxt = "Exisiting Inventory"
+      />
+      <Item 
+       title= "Model S"
+       desc = "Order Online for Touchless Delivery"
+       backgroundImg = 'model-S.jpg'
+       leftBtnText = "Custom order"
+       rightBtntxt = "Exisiting Inventory"
+      />
+    
+
+     
       
 
       <Item
