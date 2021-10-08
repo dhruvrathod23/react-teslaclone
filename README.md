@@ -2,7 +2,8 @@ React tesla clone
 designed with styled-component
 
 
-
+LIVE DEMO
+http://react-teslaclone.herokuapp.com/
 
 
 # Getting Started with Create React App
