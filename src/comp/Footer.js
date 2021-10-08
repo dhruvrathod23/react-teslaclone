@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <Cont>
            <p>
-         <Weak>  Tesla clone developed by <a href="http://dhruvrathod.tech/">Dhruv Rathod</a></Weak> </p>
+         <Weak>  Tesla clone developed by.. <a href="http://dhruvrathod.tech/">Dhruv Rathod</a></Weak> </p>
          </Cont>
     )
 }
